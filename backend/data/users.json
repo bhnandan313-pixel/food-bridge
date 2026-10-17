@@ -1,0 +1,92 @@
+[
+    {
+        "id": "D1",
+        "role": "donor",
+        "name": "Spice Route Restaurant",
+        "type": "Restaurant",
+        "address": "80 Feet Rd, Koramangala, Bengaluru",
+        "lat": 12.9352,
+        "lng": 77.6245,
+        "phone": "9800000001"
+    },
+    {
+        "id": "D2",
+        "role": "donor",
+        "name": "Grand Orchid Hotel",
+        "type": "Hotel",
+        "address": "MG Road, Bengaluru",
+        "lat": 12.9756,
+        "lng": 77.6068,
+        "phone": "9800000002"
+    },
+    {
+        "id": "D4",
+        "role": "donor",
+        "name": "Annapurna Banquet Hall",
+        "type": "Event Venue",
+        "address": "4th Block, Jayanagar, Bengaluru",
+        "lat": 12.9308,
+        "lng": 77.5838,
+        "phone": "9800000004"
+    },
+    {
+        "id": "N2",
+        "role": "ngo",
+        "name": "Seva Hands Trust",
+        "address": "Jayanagar 9th Block, Bengaluru",
+        "lat": 12.917,
+        "lng": 77.593,
+        "phone": "9700000002",
+        "volunteers": 8,
+        "capacity_servings": 120,
+        "service_radius_km": 4,
+        "has_vehicle": false,
+        "accepted_categories": [
+            "Cooked Meals",
+            "Fruits & Vegetables",
+            "Dairy"
+        ]
+    },
+    {
+        "id": "N3",
+        "role": "ngo",
+        "name": "Hope Kitchen Collective",
+        "address": "Indiranagar 2nd Stage, Bengaluru",
+        "lat": 12.9719,
+        "lng": 77.6412,
+        "phone": "9700000003",
+        "volunteers": 15,
+        "capacity_servings": 300,
+        "service_radius_km": 8,
+        "has_vehicle": true,
+        "accepted_categories": [
+            "Cooked Meals",
+            "Bakery",
+            "Fruits & Vegetables",
+            "Dairy",
+            "Packaged Food",
+            "Beverages"
+        ]
+    },
+    {
+        "id": "3f544ac5-791e-4b79-a0b3-a69f82e454ed",
+        "name": "Donor",
+        "email": "donor@hotel.com",
+        "password": "scrypt:32768:8:1$oKMLP6wKZrrvtL2v$5dde6bcbb20318817113b6591ba11e61de40c4a003eef78fa17e68b99242cdf1485965b8181f8ac1fac7e3a4dd116d91e832753dd4a0cd1b62bea30df8cffdcd",
+        "role": "donor"
+    },
+    {
+        "id": "6acb24d2-271c-42a3-8c8d-a3b352545362",
+        "name": "Ngo",
+        "email": "ngo@trust.org",
+        "password": "scrypt:32768:8:1$EhKw6NSXLQ053gk7$37b09a7902c909d6d288a9b8f335b55819babf02aa994d6f119d387c8bbd81d6b74921fffc9205faa84e382e50d7d5b3b7918faa168062998b98f7d16c087787",
+        "role": "ngo"
+    },
+    {
+        "id": "e8184d19-dfb8-4de1-bbd1-ff64f3abcdbd",
+        "name": "gRAND HOTEL ",
+        "email": "bhnandan313@gmail.com",
+        "password": "scrypt:32768:8:1$mCiR61BIBnaOwqnS$f23972a294dced4f148e06b88a570268a62255d81c7d246055f2434c272ebdaff2633fd0fdec8a56c12f8c8d8b6e6da685885b4034793243a5c83701d0371243",
+        "role": "donor"
+    }
+]
